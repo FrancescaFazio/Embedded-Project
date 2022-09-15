@@ -15,8 +15,7 @@ void setup() {
   lcd.setCursor(1,0);
   lcd.print("Benvenuto!");
   delay(3000);
-  
-  Serial.begin(9600);
+
 }
 
 int puntiGiocatore1 = 0;
