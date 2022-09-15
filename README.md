@@ -12,4 +12,4 @@ Il progetto consiste nel progettare un piccolo gioco in cui due giocatori si sfi
 Il gioco continua alternando i ruoli dei due giocatori e termina quando uno di quest'ultimi riesce ad arrivare ad un punteggio pari a tre.
 
 # Fotografie del progetto:
- ![Foto](FotoProgetto.png) 
+ ![Foto](FotoProgetto.jpeg) 
